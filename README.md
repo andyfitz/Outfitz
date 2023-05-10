@@ -14,7 +14,7 @@
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FOutfitio%2FOutfit-Fonts%2Fgh-pages%2Fbadges%2FUniversal.json
 
 
-![Sample Image](documentation/image1.png)
+![Sample Image](documentation/titlecard.png)
 
 ## About
 
