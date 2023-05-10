@@ -18,15 +18,13 @@
 
 ## About
 
-A beautiful geometric sans: The official typeface for brand automation company outfit.io
+A beautiful geometric sans font family, featuring distinguished ligatures. 
+The spiritual successor to the popular font 'Outfit' 
 
 > “typefaces are the clothes words wear.” -Beatrice Warde
 
-Inspired by the ligature-rich outfit wordmark, Outfit.io is delighted to release it's own type family.
-The Outfit typeface links the Outfit written voice to Outfit product marks; on brand by default. 
 
-
-The proof files and QA tests are also available [automatically via GitHub Actions](https://outfitio.github.io/Outfit-Fonts/)
+The proof files and QA tests are also available [automatically via GitHub Actions](https://andyfitz.github.io/Outfitz/)
 
 
 ## Building
@@ -38,12 +36,7 @@ If you want to build fonts manually on your own computer:
 * `make build` will produce font files.
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
-
-## Changelog
-
-**29 August 2021. Version 1.0**
-- Hello World - Initial Public Release.
-
+ 
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
