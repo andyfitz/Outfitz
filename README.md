@@ -1,5 +1,5 @@
 ----
-# Outfit Fonts
+# Outfitz Typeface
 
 [![][Fontbakery]](https://Outfitio.github.io/Outfit-Fonts/fontbakery-report.html)
 [![][Universal]](https://Outfitio.github.io/Outfit-Fonts/fontbakery-report.html)
@@ -18,8 +18,11 @@
 
 ## About
 
+The spiritual successor to the popular font 'Outfit'. 
+
 A beautiful geometric sans font family, featuring distinguished ligatures. 
-The spiritual successor to the popular font 'Outfit' 
+
+This repository is maintaned, pull-request friendly, and accepting issues. 
 
 > “typefaces are the clothes words wear.” -Beatrice Warde
 
