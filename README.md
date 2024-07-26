@@ -27,7 +27,7 @@ This repository is maintaned, pull-request friendly, and accepting issues.
 > “typefaces are the clothes words wear.” -Beatrice Warde
 
 
-The proof files and QA tests are also available [automatically via GitHub Actions](https://andyfitz.github.io/Outfitz/)
+The proof files and QA tests are also available [automatically via GitHub Actions](https://andyfitzsuse.github.io/Outfitz/)
 
 
 ## Building
